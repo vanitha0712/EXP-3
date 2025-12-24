@@ -65,5 +65,11 @@ Tabulation:2
  |3|OFF|ON|ON|
  |4|OFF|OFF|OFF|
 
+ | COMPONENTS | PROTEUS | SPECIFICATION |
+| :--- | :--- | :--- |
+| AC supply | Vsine | Amplitude = 230V |
+| Two-way switch | SPDT | Frequency = 50 Hz |
+| Lamp | Animated | 230V |
+
 RESULT:
 Thus the staircase wiring is connected and tested.
